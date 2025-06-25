@@ -1,0 +1,8 @@
+pywin32
+pyinstaller
+configparser
+pydantic
+yaml
+httpx
+winrt.windows.media.control
+winrt.windows.foundation
